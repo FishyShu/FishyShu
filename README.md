@@ -1,35 +1,31 @@
-<a href="https://github.com/FishyShu">
-  <img width="100%" alt="FishyShu" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07121f,60:0b2f4f,100:0e5a85&text=FishyShu&fontColor=e6fbff&fontSize=62&fontAlignY=36&desc=I%20cast%20FIREBALL!&descSize=18&descAlignY=58&animation=fadeIn" />
-</a>
+<img width="100%" alt="FishyShu" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:bde8ff,50:c9d6ff,100:ffd1ec&text=FishyShu&fontColor=2b3a67&fontSize=60&fontAlignY=36&desc=%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9%20blub%20blub%20%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
-  <img alt="typing" src="https://readme-typing-svg.demolab.com/?lines=game+tools+for+Deadlock+%26+Overwatch;small+Rust+apps+for+Windows;a+homelab+living+on+a+NanoPi;currently+learning+Rust+the+hard+way&font=Fira+Code&center=true&width=480&height=40&pause=1400&color=3DDBD9" />
+  <img alt="typing" src="https://readme-typing-svg.demolab.com/?lines=hii+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE)+i'm+fishy;i+make+little+tools+%26+game+things;probably+debugging+something+rn;learning+rust+one+bubble+at+a+time+%3E%3C%3E&font=Fira+Code&center=true&width=500&height=40&pause=1400&color=7A9CFF" />
 </p>
 
-I build the tools I wish existed for the games I play, then keep poking them until they're actually good.
-Mostly **Rust**, some **Java**, **Python** and **PowerShell**. Everything runs on my own PC or a tiny ARM box under my desk.
+<p align="center">
+  🫧 &nbsp; 🐟 &nbsp; 🫧 &nbsp; 🐠 &nbsp; 🫧
+</p>
 
-### 🐟 things I made
+<p align="center">
+  a small fish swimming around in code.<br>
+  i like making things that make my pc and my games a bit nicer.<br>
+  mostly <b>rust</b>, a little <b>java</b>, <b>python</b> and <b>powershell</b> sprinkled in ✨
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/FishyShu/deadlock-overwatch-server-selector"><img src="https://raw.githubusercontent.com/FishyShu/deadlock-overwatch-server-selector/master/docs/screenshot-deadlock.png" height="230" alt="svtoggle world map of server cities" /></a>
-<br><b><a href="https://github.com/FishyShu/deadlock-overwatch-server-selector">svtoggle</a></b>
-<br>Pick which Deadlock / Overwatch servers you get. World map, per-city toggles, live ping, presets. Rust, Windows firewall under the hood.
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/FishyShu/claude-tray-cat"><img src="https://raw.githubusercontent.com/FishyShu/claude-tray-cat/main/docs/frames.png" height="230" alt="claude-tray-cat animation frames" /></a>
-<br><b><a href="https://github.com/FishyShu/claude-tray-cat">claude-tray-cat</a></b>
-<br>A tiny tray cat that shows what your Claude Code sessions are doing. Sleeping, thinking, waiting on you.
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-rust-ffd1ec?style=flat-square&logo=rust&logoColor=2b3a67" />
+  <img src="https://img.shields.io/badge/-java-c9d6ff?style=flat-square&logo=openjdk&logoColor=2b3a67" />
+  <img src="https://img.shields.io/badge/-python-bde8ff?style=flat-square&logo=python&logoColor=2b3a67" />
+  <img src="https://img.shields.io/badge/-linux-ffe7b8?style=flat-square&logo=linux&logoColor=2b3a67" />
+</p>
 
-- 🤖 **[Tagokura](https://github.com/FishyShu/Discord-Bot-Python)**: my Discord bot (AI chat, music, web dashboard). Now rewritten in Rust and self-hosted.
-- 🧪 **cooking, not public yet**: Infolock (a Deadlock HUD mod) and Mochi (a Minecraft client).
+<p align="center">
+  🎮 games &nbsp;·&nbsp; 🖥️ homelab on a tiny box &nbsp;·&nbsp; 🌙 coding way past bedtime
+</p>
 
-### 🌊 the ocean floor
+<p align="center"><sub>( ˘ ³˘)♥ &nbsp; my little ocean floor &nbsp; ><(((º></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FishyShu/FishyShu/output/snake-dark.svg" />
@@ -37,4 +33,4 @@ Mostly **Rust**, some **Java**, **Python** and **PowerShell**. Everything runs o
   <img alt="contribution snake" src="https://raw.githubusercontent.com/FishyShu/FishyShu/output/snake-dark.svg" />
 </picture>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0e5a85,40:0b2f4f,100:07121f" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:ffd1ec,50:c9d6ff,100:bde8ff" />
