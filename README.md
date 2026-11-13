@@ -1,5 +1,5 @@
 <a href="https://github.com/FishyShu">
-  <img width="100%" alt="FishyShu" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1d33,55:0e4d7a,100:3ddbd9&text=FishyShu&fontColor=e6fbff&fontSize=62&fontAlignY=36&desc=I%20cast%20FIREBALL!&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img width="100%" alt="FishyShu" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07121f,60:0b2f4f,100:0e5a85&text=FishyShu&fontColor=e6fbff&fontSize=62&fontAlignY=36&desc=I%20cast%20FIREBALL!&descSize=18&descAlignY=58&animation=fadeIn" />
 </a>
 
 <p align="center">
@@ -14,12 +14,12 @@ Mostly **Rust**, some **Java**, **Python** and **PowerShell**. Everything runs o
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/FishyShu/deadlock-overwatch-server-selector"><img src="https://raw.githubusercontent.com/FishyShu/deadlock-overwatch-server-selector/main/docs/screenshot-deadlock.png" alt="svtoggle world map of server cities" /></a>
+<a href="https://github.com/FishyShu/deadlock-overwatch-server-selector"><img src="https://raw.githubusercontent.com/FishyShu/deadlock-overwatch-server-selector/master/docs/screenshot-deadlock.png" height="230" alt="svtoggle world map of server cities" /></a>
 <br><b><a href="https://github.com/FishyShu/deadlock-overwatch-server-selector">svtoggle</a></b>
 <br>Pick which Deadlock / Overwatch servers you get. World map, per-city toggles, live ping, presets. Rust, Windows firewall under the hood.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/FishyShu/claude-tray-cat"><img src="https://raw.githubusercontent.com/FishyShu/claude-tray-cat/main/docs/frames.png" alt="claude-tray-cat animation frames" /></a>
+<a href="https://github.com/FishyShu/claude-tray-cat"><img src="https://raw.githubusercontent.com/FishyShu/claude-tray-cat/main/docs/frames.png" height="230" alt="claude-tray-cat animation frames" /></a>
 <br><b><a href="https://github.com/FishyShu/claude-tray-cat">claude-tray-cat</a></b>
 <br>A tiny tray cat that shows what your Claude Code sessions are doing. Sleeping, thinking, waiting on you.
 </td>
@@ -37,4 +37,4 @@ Mostly **Rust**, some **Java**, **Python** and **PowerShell**. Everything runs o
   <img alt="contribution snake" src="https://raw.githubusercontent.com/FishyShu/FishyShu/output/snake-dark.svg" />
 </picture>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:3ddbd9,45:0e4d7a,100:0b1d33" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0e5a85,40:0b2f4f,100:07121f" />
