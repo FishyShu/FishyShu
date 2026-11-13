@@ -26,7 +26,7 @@ Mostly **Rust**, some **Java**, **Python** and **PowerShell**. Everything runs o
 </tr>
 </table>
 
-- 🤖 **[Tagokura](https://github.com/FishyShu/Discord-Bot-Python)**: my Discord bot (music, AI chat, moderation). Now rewritten in Rust and self-hosted.
+- 🤖 **[Tagokura](https://github.com/FishyShu/Discord-Bot-Python)**: my Discord bot (AI chat, music, web dashboard). Now rewritten in Rust and self-hosted.
 - 🧪 **cooking, not public yet**: Infolock (a Deadlock HUD mod) and Mochi (a Minecraft client).
 
 ### 🌊 the ocean floor
