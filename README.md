@@ -1,9 +1,8 @@
-### hi, i'm fishy ><>
+### hi, I'm Fishyshu
 
-i write code for fun, mostly in rust.
-also java, python and powershell.
+i write code for fun
 
-i play deadlock and overwatch, and run a small homelab.
+I like doing small projects 
 
 ```
    o                    .
